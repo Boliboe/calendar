@@ -21,8 +21,8 @@
 
 .dark {
     --bg-body: var(--dark-body);
-    --bg-main: var(--bg-main);
-    --bg-second: var(--bg-second);
+    --bg-main: var(--dark-main);
+    --bg-second: var(--dark-second);
     --color-hover: var(--dark-hover);
     --color-txt: var(--dark-text);
 }
