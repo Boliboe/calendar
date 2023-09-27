@@ -36,8 +36,8 @@ generateCalendar = (month, year) => {
 
         let firstDay = new Date(month, year, 1)
 
-        for (let i = 0; i<= daysOfMonth[month] + firs .getDay() -1; i++) {
-            
+        for (let i = 0; i<= daysOfMonth[month] + firstDay.getDay() -1; i++) {
+
         }
 
 }
